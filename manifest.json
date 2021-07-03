@@ -1,0 +1,22 @@
+{
+  "name": "Ilógica",
+  "description": "Accesos directos Ilógica",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/favicon16.png",
+      "32": "/images/favicon32.png",
+      "48": "/images/favicon48.png",
+      "128": "/images/favicon128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/favicon16.png",
+    "32": "/images/favicon32.png",
+    "48": "/images/favicon48.png",
+    "128": "/images/favicon128.png"
+  }
+}
